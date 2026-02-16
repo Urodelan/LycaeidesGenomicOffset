@@ -1,2 +1,2 @@
-# LycaeidesGenomicOffset
-Lycaeides Genomic Offset
+# Lycaeides Genomic Offset
+Code for Lycaeides genomic offset project.
