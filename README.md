@@ -1,7 +1,7 @@
 # Lycaeides Genomic Offset
 Code for Lycaeides genomic offset project.
 
-## Directories:
+## Directories
 
 **Annotation:** Gene and functional annotations.
 
