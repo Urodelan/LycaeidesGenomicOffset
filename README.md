@@ -9,7 +9,7 @@ Code for *Lycaeides* genomic offset project.
 
 **Demography:** Regressions with genomic offset and demographic parameters.
 
-**Elevation:** Extraction and regression on elevation.
+**Elevation:** Extraction and regression of elevation.
 
 **Enrichment:** Enrichment tests for genes and ontologies.
 
