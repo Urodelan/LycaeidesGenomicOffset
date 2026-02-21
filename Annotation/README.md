@@ -1,0 +1,1 @@
+See create_snp_annotations.py at https://github.com/chaturvedi-lab/Lmelissa_genome_annotation/tree/master
