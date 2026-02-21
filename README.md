@@ -1,5 +1,5 @@
 # Lycaeides Genomic Offset
-Code for Lycaeides genomic offset project.
+Code for *Lycaeides* genomic offset project.
 
 ## Directories
 
