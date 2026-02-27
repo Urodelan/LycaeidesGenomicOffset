@@ -7,9 +7,7 @@ Code for *Lycaeides* genomic offset project.
 
 **Climate:** Estimation of current, past, and future climates.
 
-**Demography:** Regressions with genomic offset and demographic parameters.
-
-**Elevation:** Extraction and regression of elevation.
+**Demography:** Regression of demographic parameters on genomic offset.
 
 **Enrichment:** Enrichment tests for genes and ontologies.
 
